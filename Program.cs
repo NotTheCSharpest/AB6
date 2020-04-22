@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace AB6_1
+
 {
     class Program
     {
